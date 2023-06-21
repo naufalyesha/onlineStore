@@ -8,14 +8,13 @@ Projek Online Store <br>
 
 ## Contoh Screenshot Projek onlineStore
 
-<p align="center">
-Tampilan Home <br>
+## Tampilan Home<br>
 ![alt text](https://user-images.githubusercontent.com/116877491/247593559-4579a85b-6f4c-4eb7-a1ea-6ea370404b6f.png)<br>
-Tampilan Products <br>
+## Tampilan Products <br>
 ![ss2](https://github.com/naufalyesha/onlineStore/assets/116877491/54840de3-793f-4b59-99c9-e2c52361317c)<br>
-Tampilan Register <br>
+## Tampilan Register <br>
 ![ss3](https://github.com/naufalyesha/onlineStore/assets/116877491/c47cadb8-6628-415c-8e69-88bdc0863922)<br>
-</p>
+
 
 ## Contributing
 
