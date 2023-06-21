@@ -1,19 +1,19 @@
 ## Penjelasan Singkat
 
-Muhammad Naufal Yesha Rendra
-3.34.21.3.15
-IK-2D
-Pemrograman Web Berbasis Framework
-Projek Online Store
+Muhammad Naufal Yesha Rendra <br>
+3.34.21.3.15 <br>
+IK-2D <br>
+Pemrograman Web Berbasis Framework <br>
+Projek Online Store <br>
 
 ## Contoh Screenshot Projek onlineStore
 
 <p align="center">
-Tampilan Home
-<img src="../onlineStore/public/img/ss1.png"><br>
-Tampilan Products
+Tampilan Home <br>
+![image.png]( {../onlineStore/public/img/ss1.png} )<br>
+Tampilan Products <br>
 <img src="../onlineStore/public/img/ss2.png"><br>
-Tampilan Register
+Tampilan Register <br>
 <img src="../onlineStore/public/img/ss.png"><br>
 </p>
 
