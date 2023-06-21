@@ -10,11 +10,11 @@ Projek Online Store <br>
 
 <p align="center">
 Tampilan Home <br>
-![image.png]( {../onlineStore/public/img/ss1.png} )<br>
+![alt text](https://user-images.githubusercontent.com/116877491/247593559-4579a85b-6f4c-4eb7-a1ea-6ea370404b6f.png)<br>
 Tampilan Products <br>
-<img src="../onlineStore/public/img/ss2.png"><br>
+![ss2](https://github.com/naufalyesha/onlineStore/assets/116877491/54840de3-793f-4b59-99c9-e2c52361317c)<br>
 Tampilan Register <br>
-<img src="../onlineStore/public/img/ss.png"><br>
+![ss3](https://github.com/naufalyesha/onlineStore/assets/116877491/c47cadb8-6628-415c-8e69-88bdc0863922)<br>
 </p>
 
 ## Contributing
